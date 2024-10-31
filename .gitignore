@@ -1,0 +1,9 @@
+# Node modules for the frontend
+chatgpt-frontend/node_modules/
+chatgpt-frontend/build/
+chatgpt-frontend/.env
+
+# Python cache files for the backend
+backend_project/__pycache__/
+backend_project/*.pyc
+backend_project/.env
