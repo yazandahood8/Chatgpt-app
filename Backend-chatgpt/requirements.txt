@@ -1,0 +1,11 @@
+Flask==2.1.1
+Flask-SQLAlchemy==2.5.1
+Flask-Migrate==3.1.0
+openai==0.27.0
+pytest==8.3.3
+pytest-mock==3.14.0
+alembic==1.7.7
+werkzeug==2.0.3
+SQLAlchemy==1.3.24
+python-dotenv
+psycopg2-binary
